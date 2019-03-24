@@ -13,11 +13,11 @@ And it doesn't require you to select what to be aligned, the extension will figu
 
 ## How to use
 
-Place your cursor at where you want your code to be aligned, and invoke the Align command via Command Palette or customized shortcut. Then the code will be automatically aligned.
+Place your cursor at where you want your code to be aligned, and invoke the `Align` command via Command Palette or customized shortcut. Then the code will be automatically aligned.
 
 ## Screenshots
 
-Comma-first sytle:
+Comma-first style:
 
 ![Comma-first style](images/1.gif)
 
